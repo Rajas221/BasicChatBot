@@ -1,0 +1,12 @@
+#Beginner level AI chatbot
+This is a simple AI chatbot that can answer questions and have conversations.
+
+This chatbot responds to inputs using a set of if-else conditions. Unlike ML bots, it does not learn from conversations. It is a simple rule-based bot.
+
+we define keywords and phrases and what responses to be given for them.
+
+Regular expressions are used to match the input with the keywords and phrases.
+
+DateTime adds stamp to the conversation log.
+
+check conversation_log.txt for the conversation log.

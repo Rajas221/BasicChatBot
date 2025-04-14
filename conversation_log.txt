@@ -1,0 +1,81 @@
+2025-04-14 15:29:43.060753 - User: hiiii
+2025-04-14 15:29:43.060753 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:29:52.805614 - User: hii
+2025-04-14 15:29:52.805614 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:29:56.738146 - User: hello
+2025-04-14 15:29:56.738146 - Chatbot: Hello! How can I assist you today?
+
+2025-04-14 15:29:58.519437 - User: hi
+2025-04-14 15:29:58.519437 - Chatbot: Hi there! How can I help you?
+
+2025-04-14 15:30:02.232354 - User: hey
+2025-04-14 15:30:02.232354 - Chatbot: Hi there! How can I help you?
+
+2025-04-14 15:33:22.958916 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:33:22.958916 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:33:31.150006 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:33:31.150006 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:33:33.058261 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:33:33.058261 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:33:39.076217 - User: hiii
+2025-04-14 15:33:39.076217 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:33:41.119054 - User: hi
+2025-04-14 15:33:41.119054 - Chatbot: Hi there! How can I help you?
+
+2025-04-14 15:33:44.699062 - User: helloooo
+2025-04-14 15:33:44.699062 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:33:48.095882 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:33:48.095882 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:34:00.146083 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:34:00.146083 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:34:00.926870 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:34:00.926870 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:34:01.235052 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:34:01.235052 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:34:41.442926 - User: & C:/Python312/python.exe "c:/Projects/Beginner Level/AI/Rule Based Chat Bot/extendedCB.py"
+2025-04-14 15:34:41.442926 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:34:51.371086 - User: hiiii
+2025-04-14 15:34:51.371086 - Chatbot: I'm sorry, I don't understand that. Can you please rephrase?
+
+2025-04-14 15:34:55.041049 - User: hello
+2025-04-14 15:34:55.041049 - Chatbot: Hey! What can I do for you?
+
+2025-04-14 15:34:59.009714 - User: how are you
+2025-04-14 15:34:59.009714 - Chatbot: Doing well, thank you! What about you?
+
+2025-04-14 15:35:03.097753 - User: help
+2025-04-14 15:35:03.097753 - Chatbot: I'm here to assist you! What do you need?
+
+2025-04-14 15:35:04.295349 - User: help
+2025-04-14 15:35:04.295349 - Chatbot: Sure! What do you need help with?
+
+2025-04-14 15:35:05.752486 - User: help
+2025-04-14 15:35:05.752486 - Chatbot: Sure! What do you need help with?
+
+2025-04-14 15:35:07.657451 - User: help
+2025-04-14 15:35:07.657451 - Chatbot: Sure! What do you need help with?
+
+2025-04-14 15:35:10.978372 - User: help
+2025-04-14 15:35:10.978372 - Chatbot: Sure! What do you need help with?
+
+2025-04-14 15:35:16.592179 - User: hi
+2025-04-14 15:35:16.592179 - Chatbot: Hello! How can I assist you today?
+
+2025-04-14 15:35:17.733279 - User: hey
+2025-04-14 15:35:17.733279 - Chatbot: Hello! How can I assist you today?
+
+2025-04-14 15:35:23.596700 - User: hello
+2025-04-14 15:35:23.596700 - Chatbot: Hey! What can I do for you?
+
